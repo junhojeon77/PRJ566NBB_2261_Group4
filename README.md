@@ -16,10 +16,10 @@ Smart Stock solves this by providing accessible supply chain intelligence. Our s
 
 ## Key Features
 
-* ** AI-Driven Demand Prediction:** Analyzes historical sales and menu data to predict ingredient needs with precision, reducing food waste.
-* ** Smart Sourcing Module:** Automatically identifies the best prices from local vendors in real-time to optimize procurement costs.
-* ** Cloud-Native & BYOD:** A fully web-based application that requires no expensive proprietary hardware—use the devices you already own.
-* ** Enterprise-Grade Analytics:** specific insights designed to maximize profits for startups and small businesses.
+- ** AI-Driven Demand Prediction:** Analyzes historical sales and menu data to predict ingredient needs with precision, reducing food waste.
+- ** Smart Sourcing Module:** Automatically identifies the best prices from local vendors in real-time to optimize procurement costs.
+- ** Cloud-Native & BYOD:** A fully web-based application that requires no expensive proprietary hardware—use the devices you already own.
+- ** Enterprise-Grade Analytics:** specific insights designed to maximize profits for startups and small businesses.
 
 
 ## Team Members
