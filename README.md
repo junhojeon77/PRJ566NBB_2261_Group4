@@ -3,8 +3,6 @@
 
 **Smart Stock** is a lightweight, cloud-native web application designed to democratize supply chain intelligence. We replace manual guesswork with AI-driven precision, providing small restaurants and startups with enterprise-grade predictive analytics and automated sourcing tools at a fraction of the cost.
 
----
-
 ## About the Project
 
 Smart Stock evolves inventory management from a labor-intensive chore into an AI-assisted strategic asset. By utilizing a **Bring Your Own Device (BYOD)** model, we eliminate hardware costs and allow restaurant owners to ensure they only buy what they need at the best possible price.
@@ -17,7 +15,6 @@ Small-scale restaurants operate on thin margins, often trapped between inefficie
 ### Our Solution
 Smart Stock solves this by providing accessible supply chain intelligence. Our system analyzes data—such as ingredients, menu items, and sales trends—to predict demand and calculate exactly how much inventory needs to be purchased.
 
----
 
 ## Key Features
 
@@ -26,7 +23,6 @@ Smart Stock solves this by providing accessible supply chain intelligence. Our s
 * ** Cloud-Native & BYOD:** A fully web-based application that requires no expensive proprietary hardware—use the devices you already own.
 * ** Enterprise-Grade Analytics:** specific insights designed to maximize profits for startups and small businesses.
 
----
 
 ## Team Members
 
