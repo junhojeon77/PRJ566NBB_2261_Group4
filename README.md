@@ -8,9 +8,7 @@
 Smart Stock evolves inventory management from a labor-intensive chore into an AI-assisted strategic asset. By utilizing a **Bring Your Own Device (BYOD)** model, we eliminate hardware costs and allow restaurant owners to ensure they only buy what they need at the best possible price.
 
 ### The Problem
-Small-scale restaurants operate on thin margins, often trapped between inefficient paper tracking and expensive enterprise software they cannot afford. This lack of sophisticated tools leads to two critical failures:
-1. **Excessive Capital Loss:** Money wasted on food waste and unoptimized stock.
-2. **Missed Revenue:** Inability to fulfill orders due to missing stock/ingredients.
+Small-scale restaurants operate on thin margins, often trapped between inefficient paper tracking and expensive enterprise software they cannot afford. This lack of sophisticated tools leads to two critical failures being excessive capital loss being moneyy wasted on food waste and missed revenue from inability to fulfill orders due to missed stock or ingredients.
 
 ### Our Solution
 Smart Stock solves this by providing accessible supply chain intelligence. Our system analyzes data—such as ingredients, menu items, and sales trends—to predict demand and calculate exactly how much inventory needs to be purchased.
