@@ -26,7 +26,7 @@ Smart Stock solves this by providing accessible supply chain intelligence. Our s
 
 | Name | Role |
 | :--- | :--- |
-| **Jun Ho Jeon** | Full Stack Developer |
+| **Jun Ho Jeon** | Full Stack Developer/Project Manager |
 | **Ivan Castro** | UI/UX Designer & Frontend Developer |
 | **Nikan Eidi** | Data Scientist & AI Engineer |
 | **Parsa Tahmasebi** | Back End Developer |
