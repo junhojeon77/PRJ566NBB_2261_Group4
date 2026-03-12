@@ -1,0 +1,11 @@
+{
+  "item_id": "inv_9988",
+  "name": "Canned Tomatoes",
+  "category": "Perishable",
+  "current_quantity": 50,
+  "unit": "cans",
+  "min_threshold": 20,
+  "expiry_date": "2026-05-12",
+  "status_percentage": 20.0,
+  "last_updated": "2026-03-12T10:00:00Z"
+}

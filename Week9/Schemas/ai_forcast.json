@@ -1,0 +1,11 @@
+{
+  "forecast_id": "fc_1234",
+  "item_id": "inv_9988",
+  "predicted_usage": 3500,
+  "confidence_level": 0.85, 
+  "forecast_period": {
+    "start": "2026-03-15",
+    "end": "2026-03-22"
+  },
+  "created_at": "2026-03-12T08:00:00Z"
+}
